@@ -1,7 +1,7 @@
 # Python web framework
 
-This is a basic web framework created in python. There is no github
-repo/pypi package for it yet so this is the only way you can use it.
+This is a basic web framework created in python, that allows you to
+create web apps without ever touching javascript.
 
 # Examples
 
