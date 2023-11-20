@@ -1,6 +1,6 @@
 # Python web framework
 
-This is a basic web framework created in python, that allows you to
+This is a basic web framework created in python that allows you to
 create web apps without ever touching javascript.
 
 # Examples
