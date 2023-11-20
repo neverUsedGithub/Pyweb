@@ -7,6 +7,10 @@ repo/pypi package for it yet so this is the only way you can use it.
 
 Take a look at `examples/app.py`.
 
+# Installation
+
+`pip install git+https://github.com/neverUsedGithub/Pyweb`
+
 # Getting started
 
 ### Creating a page
